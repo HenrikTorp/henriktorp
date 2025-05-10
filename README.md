@@ -6,3 +6,5 @@ Currently, I am learning C# for backend development and exploring general progra
 
 I am excited to continue growing as a developer and look forward to tackling more advanced challenges in the future!
 
+**LinkedIn**: [Henrik Torp](https://www.linkedin.com/in/henrik-torp-7b564a361/)
+
